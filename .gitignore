@@ -1,0 +1,19 @@
+# Virtualenv
+myDjangoEnv/
+env/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Django Stuff:
+*.sqlite3
+db.sqlite3
+/media
+/staticfiles
+
+# Mac stuff
+.DS_Store
+
+# Environment variables
+.env
