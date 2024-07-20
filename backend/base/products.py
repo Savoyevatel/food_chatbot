@@ -73,7 +73,7 @@ products = [
     'brand': 'Coca-cola',
     'category': 'Food',
     'price': 4.99,
-    'countInStock': 0,
+    'countInStock': 100,
     'rating': 4,
     'numReviews': 12,
   },
