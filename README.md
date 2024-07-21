@@ -98,19 +98,9 @@ python manage.py runserver
 
 
 ## References
-<a id="1">[1]</a>
-Ptak, R., Zygadlo, B., Unold, O. (2017). Projection-Based Text Line Segmentation with a Variable
-Threshold.
-International Journal of Applied Mathematics and Computer Science, 27, doi:10.1515/amcs-2017-0014.
+
 [Django documentation](https://docs.djangoproject.com/en/3.2/))
 
-<a id="2">[2]</a>
-Berat Kurar, B., Cohen, R., Droby, A., Rabaev, I. & El-Sana, J. (2020). Learning-Free Text Line Segmentation for Historical
-Handwritten Documents.
-Applied Sciences, 10, 8276; doi:10.3390/app10228276.
 [React documentation]((https://react.dev/)
 
-<a id="3">[3]</a>
-Dutta, Kartik & Krishnan, Praveen & Mathew, Minesh & Jawahar, C.V.. (2018). Improving CNN-RNN Hybrid Networks for Handwriting Recognition.
-80-85, doi:10.1109/ICFHR-2018.2018.00023.
 ([Dialog flow documentation](https://cloud.google.com/dialogflow/docs/))
