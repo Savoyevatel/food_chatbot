@@ -16,18 +16,21 @@ The backend, built with Django, handles all the server-side operations, includin
 * Order Management: Automated order processing and real-time order status updates.
 * Chatbot Integration: A Dialogflow chatbot for customer support and automated order processing.
 
-#### Verify installation
-* Before you install, verify your Python and MATLAB configurations.
-* Check that your system has a supported version of Python and MATLAB R2014b or later. Version R2021b was used in our case.
-This version supports Python 3.7, 3.8 and 3.9.
-* Next, find the path to the MATLAB folder. Start MATLAB and type `matlabroot` in the command window. Copy the path returned
-by `matlabroot`.
+#### Prerequisites
+* Node.js
+* Python 3.x
+* Django
+* Dialogflow account
 
-#### Windows
-Open a command prompt and type the following commands:
+#### Frontend Setup
+
+Clone the repository
+git clone <repository-url>
+
+Navigate to the frontend directory
+
 ```
-cd "MATLABROOT\extern\engines\python"
-python3 setup.py install
+cd cd frontend
 ```
 
 ### Matlab Dependencies
