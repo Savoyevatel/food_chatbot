@@ -103,4 +103,4 @@ python manage.py runserver
 
 [React documentation](https://react.dev/)
 
-[Dialog flow documentation](https://cloud.google.com/dialogflow/docs/))
+[Dialog flow documentation](https://cloud.google.com/dialogflow/docs/)
