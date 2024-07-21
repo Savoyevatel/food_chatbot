@@ -99,8 +99,8 @@ python manage.py runserver
 
 ## References
 
-[Django documentation](https://docs.djangoproject.com/en/3.2/))
+[Django documentation](https://docs.djangoproject.com/en/3.2/)
 
-[React documentation]((https://react.dev/)
+[React documentation](https://react.dev/)
 
-([Dialog flow documentation](https://cloud.google.com/dialogflow/docs/))
+[Dialog flow documentation](https://cloud.google.com/dialogflow/docs/))
