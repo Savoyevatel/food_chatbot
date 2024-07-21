@@ -26,15 +26,24 @@ The backend, built with Django, handles all the server-side operations, includin
 
 Clone the repository
 ```
-git clone [https://github.com/Savoyevatel/food_chatbot]
+git clone https://github.com/Savoyevatel/food_chatbot
 ```
 
 Navigate to the frontend directory
 
 ```
-cd frontend
+cd backend/frontend
 ```
 
+Install the required packages
+```
+npm install
+```
+
+Start the React development server
+```
+npm start
+```
 ### Matlab Dependencies
 * Image Processing Toolbox
 * MATLAB Support for MinGW-w64 C/C++ Compiler
