@@ -25,12 +25,14 @@ The backend, built with Django, handles all the server-side operations, includin
 #### Frontend Setup
 
 Clone the repository
-git clone <repository-url>
+```
+git clone [https://github.com/Savoyevatel/food_chatbot]
+```
 
 Navigate to the frontend directory
 
 ```
-cd cd frontend
+cd frontend
 ```
 
 ### Matlab Dependencies
