@@ -80,14 +80,19 @@ Dialogflow Setup
 * Create a new agent in Dialogflow.
 * Define intents and entities to handle customer queries and order processing.
 * Integrate the chatbot with the Django backend using Dialogflow's fulfillment feature.
+
+* 
 ### Running the Project
 To run the project, ensure both the frontend and backend servers are running simultaneously. The React frontend will interact with the Django backend to process user requests and orders.
+
+In one terminal window, start the React frontend
 ```
-# In one terminal window, start the React frontend
 cd frontend
 npm start
+```
 
-# In another terminal window, start the Django backend
+In another terminal window, start the Django backend
+```
 cd backend
 source venv/bin/activate
 python manage.py runserver
