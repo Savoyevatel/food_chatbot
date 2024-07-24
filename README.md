@@ -33,7 +33,7 @@ git clone https://github.com/Savoyevatel/food_chatbot
 Navigate to the frontend directory
 
 ```
-cd backend/frontend
+cd frontend
 ```
 
 Install the required packages
